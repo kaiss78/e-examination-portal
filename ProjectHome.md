@@ -1,0 +1,5 @@
+With the development of the Internet technology, online examination has become more and more popular since it helps people save energy and time. Online Examination System forms the lifeline of the Educational Institutes to the functioning of the Examination.  As an efficient and effective way of teaching and learning, online examination can prevent from cheating and ensure the fairness of the examination results. This website can be useful for university or college where professor can take students exams online or it can also be useful for students to practice for their final exams. The participants can log into the examination system with their accounts and passwords to access the relevant page to complete the exam.
+
+
+
+'img src="![http://e-examination-portal.googlecode.com/files/homepage.png](http://e-examination-portal.googlecode.com/files/homepage.png)" alt="Logo"/'
